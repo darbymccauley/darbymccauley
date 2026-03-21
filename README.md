@@ -1,6 +1,6 @@
 ### Hi, I'm Darby!
 
-I am a first year PhD student of Astronomy at the University of Illinois, Urbana-Champaign. My research interests lie in instrumental cosmology, particularly in CMB experimentation.
+I am a 2nd year PhD student of Astronomy at the University of Illinois, Urbana-Champaign. My research interests lie in experimental cosmology, galaxy growth and evolution, and the formation of large-scale structure.
 
 <!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=darbymccauley&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Darby's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darbymccauley&layout=compact&theme=gotham&hide_border=true&langs_count=6" /></a> |
